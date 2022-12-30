@@ -3,4 +3,4 @@ Desafio de programacao do curso Oracle Next One - Turma 4 | Objetivo foi criar u
 
 Layout no estilo "hacker" pra dar uma cara diferente e própria
 
-![Decodificador - Google Chrome - 29 December 2022](https://user-images.githubusercontent.com/13512873/210027017-500c71ea-1634-4153-86a6-4e35d772c4e2.gif)
+![Decodificador - Google Chrome - 29 December 2022 (1)](https://user-images.githubusercontent.com/13512873/210027335-2394e0d1-f991-4084-a844-a50eca668766.gif)
